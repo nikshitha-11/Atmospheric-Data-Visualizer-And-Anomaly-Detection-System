@@ -1,0 +1,36 @@
+.stApp {
+background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+color:white;
+}
+
+.metric-card{
+background: rgba(255,255,255,0.1);
+padding:20px;
+border-radius:15px;
+backdrop-filter: blur(10px);
+box-shadow:0 8px 32px rgba(0,0,0,0.3);
+}
+
+h1,h2,h3{
+color:#00ffd5;
+}
+
+.stButton>button{
+background-color:#00c9a7;
+color:white;
+border-radius:8px;
+}
+.stApp{
+background: linear-gradient(135deg,#141e30,#243b55);
+color:white;
+}
+
+h1,h2,h3{
+color:#00e6b8;
+}
+
+.stMetric{
+background:rgba(255,255,255,0.05);
+padding:15px;
+border-radius:12px;
+}

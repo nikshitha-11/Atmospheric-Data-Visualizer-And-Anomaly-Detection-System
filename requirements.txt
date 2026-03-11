@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+requests
+plotly
+scikit-learn
+joblib
+folium
+streamlit-folium
+pydeck
+reportlab
+openpyxl
+prophet
